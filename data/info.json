@@ -4,7 +4,7 @@
       "id": 1,
       "title": "سایت سرگرمی Responsive",
       "info": "سایت سرگرمی فیلم و بازی که با HTML، CSS و JavaScript ساخته شده است.",
-      "img": "../projectsImg/test3.png",
+      "img": "./projectsImg/test3.png",
       "url": "https://entertainment-website-65daae.netlify.app/"
     },
     {
@@ -12,7 +12,7 @@
       "title": "سایت BootStrap",
       "info": "یک سایت برای آموزشگاه برنامه نویسی که با HTML ، BootStrap و JavaScript ساخته شده است."
       ,
-      "img": "../projectsImg/test1.png",
+      "img": "./projectsImg/test1.png",
       "url": "https://bootstrap-website-2e1b56.netlify.app/"
     },
     {
@@ -20,7 +20,7 @@
       "title": "Meditation App",
       "info": "یک اپلیکیشن برای مراقبه و آرامش ذهن که با HTML ، CSS و JavaScript ساخته شده است."
       ,
-      "img": "../projectsImg/test2.png",
+      "img": "./projectsImg/test2.png",
       "url": "https://meditation-app-e97b1f.netlify.app/"
     }
   ]
